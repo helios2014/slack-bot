@@ -1,7 +1,7 @@
 import requests
 import json
 import os.path
-imort os 
+import os 
 from enum import Enum
 import time
 import private
